@@ -1,123 +1,38 @@
+# Java Full Stack & Data Science Portfolio
 ---
-layout: default
+## Java Full Stack
+
+### Issuing Solutions
+
+Contributed over 9 years on Worldline Pay Issuer Back-Office (WL Pay IBO) product which is a proven card management system that addresses the needs of various types of issuers: incumbent banks, challenger banks and regulated fintechs.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### MEDIMANAGE:Medical shop Managment system
 
-[Link to another page](./another-page.html).
+A Medical Shop Management System is software designed to streamline and automate the various tasks and operations of a pharmacy or medical store.
+It helps manage inventory, sales, customer records, prescriptions, and other administrative functions efficiently.
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dhawaldethe/MEDIMANAGE.git)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="images/medical_shop_management.png"/></center>
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Multi threading in Java with Examples
 
-## Header 2
+Performed examples to demonstrate various topics in Java multi threading such as need of multithreading, thread joining,locks,using synchronization, Executor framework,callable,completable future in java
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dhawaldethe/multithreadexamples.git)
 
-### Header 3
+<center><img src="images/java_multi_threading.jpg"/></center>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
+### Generics usage in Java with Examples
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Performed examples to demonstrate various topics in Java Generics
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dhawaldethe/generics_examples.git)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<center><img src="images/java_generics.jpg"/></center>
