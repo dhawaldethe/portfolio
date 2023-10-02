@@ -34,7 +34,7 @@ Created a repository to demonstrate various topics in Java multi threading such 
 ---
 ### Generics usage in Java with Examples
 
-Created a repository to demonstrate various topics in Java Generics such as Generic classes and Interfaces, Inheritance Type, using wild cards,Bounded type parameters,generic collections.
+Created a repository to demonstrate various topics in Java Generics such as Generic classes and Interfaces, Inheritance Type, using wild cards,Bounded type parameters, generic collections.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dhawaldethe/generics_examples.git)
 
