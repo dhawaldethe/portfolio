@@ -12,7 +12,7 @@ Contributed over 9 years(2013-2022) on Worldline Pay Issuer Back-Office (WL Pay 
 
 ---
 ## POCs & Tutorials
-### MEDIMANAGE:Medical shop Managment system
+### POC: MEDIMANAGE:Medical shop Managment system
 
 A Medical Shop Management System is software designed to streamline and automate the various tasks and operations of a pharmacy or medical store.
 It helps manage inventory, sales, customer records, prescriptions, and other administrative functions efficiently.
@@ -23,7 +23,7 @@ It helps manage inventory, sales, customer records, prescriptions, and other adm
 
 ---
 
-### Multi threading in Java with Examples
+### Tutorial: Multi threading in Java with Examples
 
 Created a repository to demonstrate various topics in Java multi threading such as need of multithreading, thread joining,locks,using synchronization, Executor framework,callable,completable future in java
 
@@ -32,7 +32,7 @@ Created a repository to demonstrate various topics in Java multi threading such 
 <center><img src="assets/img/java_multi_threading.jpg"/></center>
 
 ---
-### Generics usage in Java with Examples
+### Tutorial: Generics usage in Java with Examples
 
 Created a repository to demonstrate various topics in Java Generics such as Generic classes and Interfaces, Inheritance Type, using wild cards,Bounded type parameters, generic collections.
 
